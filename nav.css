@@ -1,0 +1,29 @@
+.navbar ul{
+    background-color: brown;
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.navbar a {
+              color: white;
+              font-size: 12px;
+              font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+              padding:20px;
+              text-decoration: none;
+              display:block;
+              
+              
+}
+
+
+.navbar li{
+          display: inline-block;
+         
+}
+
+.navbar a:hover{
+               color:red;
+}
+

@@ -1,0 +1,102 @@
+body{
+    background:url(grans.jpg);
+    font-family:sans-serif;
+    padding:20px;
+}
+
+
+h1{
+  font-size:25px;
+  margin-top: 0;
+  margin-Botton: 500px;
+}
+
+
+h2{
+   font-size: 25px;
+}
+
+.Established {
+              font-style: italic;  
+}
+
+h1,
+h2,
+p{
+  text-align: center;
+
+}
+
+.menu{
+      width:70%;
+      background-color:#ff8225;
+      margin-left:auto;
+      margin-right:auto;
+      padding:20px;
+      max-width:500px;  
+}
+
+img{ display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-20px;  
+}
+
+hr {
+    height:2px;
+    background-color: brown;
+    border-color: brown;
+    }
+
+   .Bottom line { margin-top:20px;
+
+         }
+h1,
+h2{
+    font-family:impact, serif;
+  } 
+
+.Item p{ display: inline-block;
+       margin-top:4px;
+       margin-Bottom:4px;
+       font-size:14px;
+       }
+
+       .flavour, .Desserts{
+                       text-align: left;
+                       width:75%;
+       }
+
+       .Price { text-align: right;
+                width:100s;
+       }
+
+
+
+       footer{
+        text-align: center;
+                      font-size:14px;
+                  }
+
+                   .Address { margin-bottom:4px;
+
+               }
+
+               a{ color:black;
+
+           }
+
+           a: visit {
+
+                      color:black; 
+               }
+
+       a:hover{
+                color: brown;
+          }
+
+          a:active{
+                    color: brown;
+
+          }
+
